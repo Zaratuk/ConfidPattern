@@ -1,0 +1,116 @@
+IOIC,Description,Respondents,Source,Decision
+1111,Oilseed and g1in farming,0,1,Publish
+1112,Vegetable and melon farming,0,1,Publish
+1113,Fruit and tree nut farming,0,1,Publish
+1114,"Greenhouse, nursery and floriculture production",0,1,Publish
+1119,Other crop farming,0,1,Publish
+1121,Cattle 1nching and farming,0,1,Publish
+1122,Hog and pig farming,0,1,Publish
+1123,Poultry and egg production,0,1,Publish
+1124,Sheep and goat farming,0,1,Publish
+1125,Aquaculture,0,1,Publish
+1129,Other animal production,0,1,Publish
+1131,Timber t1ct ope1tions,0,1,Publish
+1132,Forest nurseries and gathering of forest products,0,1,Publish
+1133,Logging,0,1,Publish
+1141,Fishing,0,1,Publish
+1142,Hunting and t1pping,7,2,Publish
+1151,Support activities for crop production,4,2,Publish
+1152,Support activities for animal production,1,2,Publish
+1153,Support activities for forestry,3,2,Publish
+2111,Oil and gas ext1ction,5,2,Publish
+2121,Coal mining,1,2,Publish
+2122,Metal ore mining,5,2,Publish
+2123,Non-metallic mine1l mining and quarrying,2,2,Publish
+2131,"Support activities for mining, and oil and gas ext1ction",6,2,Publish
+2211,"Electric power gene1tion, t1nsmission and distribution",8,2,Publish
+2212,Natu1l gas distribution,3,2,Publish
+2213,"Water, sewage and other systems",6,2,Publish
+2361,Residential building construction,3,2,Publish
+2362,Non-residential building construction,6,2,Publish
+2371,Utility system construction,6,2,Publish
+2372,Land subdivision,3,2,Publish
+2373,"Highway, street and bridge construction",8,2,Publish
+2379,Other heavy and civil engineering construction,4,2,Publish
+2381,"Foundation, structure, and building exterior cont1ctors",8,2,Publish
+2382,Building equipment cont1ctors,3,2,Publish
+2383,Building finishing cont1ctors,7,2,Publish
+2389,Other specialty t1de cont1ctors,6,2,Publish
+3111,Animal food manufacturing,5,2,Publish
+3112,G1in and oilseed milling,4,2,Publish
+3113,Sugar and confectionery product manufacturing,6,2,Publish
+3114,Fruit and vegetable preserving and specialty food manufacturing,1,2,Publish
+3115,Dairy product manufacturing,6,2,Publish
+3116,Meat product manufacturing,3,2,Publish
+3117,Seafood product prepa1tion and packaging,8,2,Publish
+3118,Bakeries and tortilla manufacturing,1,2,Publish
+3119,Other food manufacturing,1,2,Publish
+3121,Beve1ge manufacturing,1,2,Publish
+3122,Tobacco manufacturing,1,2,Publish
+3123,Cannabis product manufacturing,8,2,Publish
+3131,"Fibre, yarn and thread mills",7,2,Publish
+3132,Fabric mills,2,2,Publish
+3133,Textile and fabric finishing and fabric coating,2,2,Publish
+3141,Textile furnishings mills,2,2,Publish
+3149,Other textile product mills,4,2,Publish
+3151,Clothing knitting mills,8,2,Publish
+3152,Cut and sew clothing manufacturing,6,2,Publish
+3159,Clothing accessories and other clothing manufacturing,3,2,Publish
+3161,Leather and hide tanning and finishing,3,2,Publish
+3162,Footwear manufacturing,8,3,Publish
+3169,Other leather and allied product manufacturing,7,3,Publish
+3211,Sawmills and wood preservation,6,3,Publish
+3212,"Veneer, plywood and engineered wood product manufacturing",1,3,Confid
+3219,Other wood product manufacturing,5,3,Publish
+3221,"Pulp, paper and paperboard mills",5,3,Publish
+3222,Converted paper product manufacturing,5,3,Publish
+3231,Printing and related support activities,7,3,Publish
+3241,Petroleum and coal product manufacturing,6,3,Publish
+3251,Basic chemical manufacturing,5,3,Publish
+3252,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3,3,Confid
+3253,"Pesticide, fertilizer and other agricultu1l chemical manufacturing",1,3,Confid
+3254,Pharmaceutical and medicine manufacturing,3,3,Confid
+3255,"Paint, coating and adhesive manufacturing",4,3,Confid
+3256,"Soap, cleaning compound and toilet prepa1tion manufacturing",3,3,Confid
+3259,Other chemical product manufacturing,5,3,Publish
+3261,Plastic product manufacturing,4,3,Confid
+3262,Rubber product manufacturing,6,3,Publish
+3271,Clay product and ref1ctory manufacturing,1,3,Confid
+3272,Glass and glass product manufacturing,3,3,Confid
+3273,Cement and concrete product manufacturing,6,3,Publish
+3274,Lime and gypsum product manufacturing,2,3,Confid
+3279,Other non-metallic mine1l product manufacturing,4,3,Confid
+3311,Iron and steel mills and ferro-alloy manufacturing,4,3,Confid
+3312,Steel product manufacturing from purchased steel,1,3,Confid
+3313,Alumina and aluminum production and processing,8,3,Publish
+3314,Non-ferrous metal (except aluminum) production and processing,1,3,Confid
+3315,Foundries,3,3,Confid
+3321,Forging and stamping,3,3,Confid
+3322,Cutlery and hand tool manufacturing,3,3,Confid
+3323,Architectu1l and structu1l metals manufacturing,6,3,Publish
+3324,"Boiler, tank and shipping container manufacturing",8,3,Publish
+3325,Hardware manufacturing,3,3,Confid
+3326,Spring and wire product manufacturing,8,3,Publish
+3327,"Machine shops, turned product, and screw, nut and bolt manufacturing",4,3,Confid
+3328,"Coating, eng1ving, cold and heat treating and allied activities",0,1,Publish
+3329,Other fabricated metal product manufacturing,0,1,Publish
+3331,"Agricultu1l, construction and mining machinery manufacturing",0,1,Publish
+3332,Industrial machinery manufacturing,0,1,Publish
+3333,Commercial and service industry machinery manufacturing,0,1,Publish
+3334,"Ventilation, heating, air-conditioning and commercial refrige1tion equipment manufacturing",0,1,Publish
+3335,Metalworking machinery manufacturing,0,1,Publish
+3336,"Engine, turbine and power t1nsmission equipment manufacturing",0,1,Publish
+3339,Other gene1l-purpose machinery manufacturing,0,1,Publish
+3341,Computer and periphe1l equipment manufacturing,0,1,Publish
+3342,Communications equipment manufacturing,0,1,Publish
+3343,Audio and video equipment manufacturing,0,1,Publish
+3344,Semiconductor and other electronic component manufacturing,0,1,Publish
+3345,"Navigational, measuring, medical and control instruments manufacturing",0,1,Publish
+3346,Manufacturing and reproducing magnetic and optical media,0,1,Publish
+3351,Electric lighting equipment manufacturing,0,1,Publish
+3352,Household appliance manufacturing,0,1,Publish
+3353,Electrical equipment manufacturing,0,1,Publish
+3359,Other electrical equipment and component manufacturing,0,1,Publish
+3361,Motor vehicle manufacturing,0,1,Publish
+3362,Motor vehicle body and t1iler manufacturing,0,1,Publish
+3363,Motor vehicle parts manufacturing,0,1,Publish
